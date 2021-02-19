@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**Dustnclay/Dustnclay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+The name is Dustin, thanks for dropping in!
 
-Here are some ideas to get you started:
+-Im terrified of heights so Im learning how to rock climb.
+-I was 26 years old when I stared learning to code.
+-I love great stories, whether it be books, movies, or runesticks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A people person am I, to the core. I have mostly worked on front end but have produced a few backends in my day.
+  I have a gret attention to detail,
+    I never misspell,
+      and love problem solving.
+
+- 📫 dustnclaytiner@gmail.com
+- https://www.linkedin.com/in/dustnclay/
