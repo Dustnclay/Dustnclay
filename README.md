@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-The name is Dustin, thanks for dropping in!
-Im a Full Stack developer.
+The name is Dustin, thanks for dropping in! <br/>
+Im a Full Stack developer.<br/>
 JavaScript | Python | React.Js | Node.Js | SQL | Bootstrap | Express.Js
 
 -Im terrified of heights so Im learning how to rock climb. <br/>
