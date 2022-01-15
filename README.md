@@ -1,4 +1,4 @@
-The name is Dustin,<br/>
+My name is Dustin,<br/>
 Im a Full Stack developer.<br/>
 JavaScript | Python | React.Js | Node.Js | SQL | Bootstrap | Express.Js | Next.js
 
