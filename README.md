@@ -1,13 +1,12 @@
-### Hi there 👋
-
-The name is Dustin, thanks for dropping in! <br/>
+The name is Dustin,<br/>
 Im a Full Stack developer.<br/>
-JavaScript | Python | React.Js | Node.Js | SQL | Bootstrap | Express.Js
+JavaScript | Python | React.Js | Node.Js | SQL | Bootstrap | Express.Js | Next.js
 
-After 8 years spent eating, breathing, and sleeping ministry as a youth pastor I decided I needed a change, I've always had a love for languages and puzzles and was introduced to coding by a friend. I’ve developed creative problem-solving, relational, and communication skills. I am interested in using all of my skills with web technologies to help build engaging and cutting-edge projects and put my heart in everything that I work on.
+Software development has come relatively naturally to me because I have always loved problem solving and had a high attention to detail. I really enjoy working on architectural design of web applications and following the best practices of how to handle data. In my free time I practice code challenges to stay sharp on data structures and algorithms.
 
-If I'm not programming, I'm likely kayaking, rock climbing, driving on some interstate on a road trip with my wife, or simply spending time with loved ones. If you’d like to know more, feel free to get in touch!
+If I'm not programming, I'm likely kayaking, rock climbing, driving on some interstate on a road trip with my wife, or FaceTiming friends. If you’d like to know more, feel free to get in touch!
 
 <br/>
 - 📫 dustnclaytiner@gmail.com<br/>
 - https://www.linkedin.com/in/dustnclay/
+- https://dustinclay.com
